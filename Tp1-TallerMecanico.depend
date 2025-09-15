@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1757864934 source:f:\lee 2025\tp1-tallermecanico\src\mecanico.cpp
+	"Mecanico.h"
+	<string>
+
+1757864934 f:\lee 2025\tp1-tallermecanico\include\mecanico.h
+	<string>
+
+1757866372 source:f:\lee 2025\tp1-tallermecanico\main.cpp
+	<iostream>
+	<vector>
+	"Mecanico.h"
+	"Repuesto.h"
+	"Reparacion.h"
+	<iomanip>
+
+1755396124 f:\lee 2025\tp1-tallermecanico\include\repuesto.h
+
+1755400958 f:\lee 2025\tp1-tallermecanico\reparacion.h
+	<vector>
+
+1757964840 source:e:\lee 2025\tp1-tallermecanico\main.cpp
+	<iostream>
+	<vector>
+	"Mecanico.h"
+	"Repuesto.h"
+	"Reparacion.h"
+	<iomanip>
+
+1757864934 e:\lee 2025\tp1-tallermecanico\include\mecanico.h
+	<string>
+
+1755396124 e:\lee 2025\tp1-tallermecanico\include\repuesto.h
+
+1755400958 e:\lee 2025\tp1-tallermecanico\reparacion.h
+	<vector>
+
+1757964022 source:e:\lee 2025\tp1-tallermecanico\src\mecanico.cpp
+	"Mecanico.h"
+	<string>
+
+1757965478 source:e:\lee 2025\tp1-tallermecanico\src\repuesto.cpp
+	"Repuesto.h"
+
+1757965264 e:\lee 2025\tp1-tallermecanico\src\repuesto.h
+	<string>
+
+1757965750 source:e:\lee 2025\tp1-tallermecanico\src\reparacion.cpp
+	"Reparacion.h"
+
+1757965502 e:\lee 2025\tp1-tallermecanico\include\reparacion.h
+	"Mecanico.h"
+	"Repuesto.h"
+	<vector>
+
